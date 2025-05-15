@@ -1,4 +1,4 @@
-# Hi, I'm [Your Name] 👋
+# Hi, I'm Hamza Azhar 👋
 
 ## 🚀 About Me
 I'm a passionate **Web Developer** with experience in **HTML, CSS, JavaScript, PHP, Symfony, and Drupal**. I love building responsive and interactive web applications.
